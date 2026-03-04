@@ -4,7 +4,7 @@ Project Overview
 Infowave is a mobile emergency response application currently in development using Xamarin and C#. The app aims to improve healthcare access in rural South African communities by enabling users to request emergency assistance and locate nearby healthcare facilities.
 
 Project Status
-🚧 IN PROGRESS – Actively being developed
+IN PROGRESS – Actively being developed
 Current Version: 0.1 (Alpha)
 Expected Completion: 2025
 
@@ -35,19 +35,19 @@ Infowave will provide a simple, accessible mobile application that:
 
 Current Features (In Development)
 
-✅ Completed:
+ Completed:
 - Project setup with Xamarin.Forms
 - Basic navigation structure
 - UI design concepts
 - GitHub repository established
 
-🔄 In Progress:
+ In Progress:
 - Main landing page design
 - Emergency button functionality
 - GPS integration for location services
 - User registration screen
 
-📅 Planned:
+ Planned:
 - Clinic database integration
 - Emergency contacts management
 - Offline mode for low-network areas
